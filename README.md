@@ -1,6 +1,6 @@
-# eggnog-smag
+# AGNOSTOS integration for Delmont et al. 2022
 
-Code for the some of the analyses in **Functional repertoire convergence of distantly related eukaryotic plankton lineages abundant in the sunlit ocean** from Delmont et al.
+Code for the some of the analyses in **Functional repertoire convergence of distantly related eukaryotic plankton lineages abundant in the sunlit ocean** from Delmont et al. 2022
 To recreate the analyses follow the instructions below:
 
   > This has been tested on R 4.1.1
